@@ -32,3 +32,6 @@ export const __delete = (
   query: string = '',
   data?: Object | string,
 ) => xhrRequest('delete', `${url}${query}`, data);
+
+// TODO: rollup
+// just make everything work
