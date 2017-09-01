@@ -1,0 +1,12 @@
+{
+  "name": "rudimentary-xhr-promise",
+  "version": "0.0.0",
+  "description": "A very rudimentary thing that promises to call your api..",
+  "main": "index.js",
+  "repository": "https://github.com/wgao19/rudimentary-xhr-promise.git",
+  "author": "Wei Gao <wgao19@gmail.com>",
+  "license": "MIT",
+	"scripts": {
+		"flow": "flow"
+	}
+}
